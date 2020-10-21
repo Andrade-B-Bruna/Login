@@ -1,4 +1,4 @@
-# Login
+# Login -> https://andrade-b-bruna.github.io/Login/
 
                                               Landing Page para login
 
@@ -15,4 +15,4 @@ ADICIONAIS
 2- Inscrever-se: Leva o usuário por link para um formulário de incrição. Sem funcionalidade no momento.
 3- Senha: Leva o usuário por link a rotina de recuperação de senha. Sem funcionalidade no momento.
 
-Bruna Andrade Braguin
+Bruna de Andrade Braguin
